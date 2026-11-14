@@ -13,7 +13,7 @@ npm install        # downloads all dependencies (one time)
 npm run dev        # starts the site at http://localhost:3000
 ```
 
-Open http://localhost:3000 in your browser.
+Open (https://kickvolt.vercel.app/) in your browser.
 
 ## Turn on real data
 
